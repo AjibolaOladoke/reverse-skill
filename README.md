@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![reverse-skill](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![reverse-skill](images/preview.png)](https://github.com/Swift-Tech-Co/reverse-skill)
 
 ## About
 
@@ -295,6 +295,14 @@ See [Security Policy](SECURITY.md), [Installation and Download Security Guidance
 ## Community quick start and issue triage
 
 See [Quick Start](docs/QUICKSTART_zh.md) and [Community Issue Triage](docs/COMMUNITY-ISSUE-TRIAGE.md) for installation, client integration, and how community issues are classified. Installation/archive security details remain in [Installation and Download Security Guidance](docs/UV-AND-DOWNLOAD-SECURITY.md).
+
+## Sources
+
+Compiled and maintained from upstream [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
