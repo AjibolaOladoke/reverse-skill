@@ -1,49 +1,12 @@
-<p align="center">
-  <img src="reverse-skill.png" alt="reverse-skill" width="140" />
-</p>
-<h1 align="center">reverse-skill</h1>
-<h3 align="center">Cybersecurity Skills Router · 逆向技能路由包</h3>
+# reverse-skill
 
-<p align="center"><em style="font-family: Georgia, serif; font-size: 1.2em; color: #777;">Navigate the dark waters, sail against the stream.</em></p>
+## What This Is
 
-<p align="center">
-  <a href="https://github.com/zhaoxuya520/reverse-skill/releases"><img src="https://img.shields.io/badge/release-v1.0.1-blue" alt="release v1.0.1"></a>
-  <a href="https://github.com/zhaoxuya520/reverse-skill/stargazers"><img src="https://img.shields.io/github/stars/zhaoxuya520/reverse-skill?style=flat&logo=github" alt="stars"></a>
-  <a href="https://github.com/zhaoxuya520/reverse-skill/forks"><img src="https://img.shields.io/github/forks/zhaoxuya520/reverse-skill?style=flat&logo=github" alt="forks"></a>
-  <a href="https://github.com/zhaoxuya520/reverse-skill/issues"><img src="https://img.shields.io/github/issues/zhaoxuya520/reverse-skill?style=flat&logo=github" alt="issues"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="license"></a>
-  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/changelog-Keep%20a%20Changelog-orange" alt="changelog"></a>
-</p>
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the reverse-skill notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
-<p align="center">
-<a href="https://trendshift.io/repositories/43969?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-43969" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/43969" alt="zhaoxuya520%2Freverse-skill | Trendshift" width="250" height="55"/></a>
-  <a href="https://trendshift.io/repositories/43969?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-43969" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/43969/daily" alt="zhaoxuya520%2Freverse-skill | Trendshift" width="250" height="55"/></a>
-</p>
+## Images
 
-<br/>
-<p align="center">
-  <a href="#about">About</a> ·
-  <a href="#getting-started">Getting Started</a> ·
-  <a href="#usage">Usage</a> ·
-  <a href="https://reverse.apivix.com/docs/">Tutorial</a> ·
-  <a href="skills/MASTER-ROUTING.md">Fast route</a> ·
-  <a href="skills/routing.md">Routing</a> ·
-  <a href="skills/ops/">Ops contracts</a> ·
-  <a href="README_AI.md">AI Bootstrap</a> ·
-  <a href="#sponsors">Sponsors</a> ·
-  <a href="#contributing">Contributing</a>
-</p>
-
-<p align="center">
-  🌐 <a href="README_zh.md">中文</a> ·
-  <a href="https://reverse.apivix.com/">Project website</a> ·
-  <a href="https://reverse.apivix.com/docs/">Online tutorial</a>
-</p>
-
-<br/>
-
-
-<a id="about"></a>
+[![reverse-skill](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## About
 
@@ -229,7 +192,7 @@ Platform-specific docs:
 ### Testing (run after any routing/config change)
 
 ```powershell
-# 1. Routing regression — 173 (hint → expected PRIMARY) cases, fails CI on any mismatch
+
 powershell -NoProfile -ExecutionPolicy Bypass -File skills/scripts/test-routing.ps1
 # 2. Structure coherence + supply-chain pin gate (unpinned auto-install fails)
 powershell -NoProfile -ExecutionPolicy Bypass -File skills/scripts/verify-routing-coherence.ps1
@@ -332,3 +295,11 @@ See [Security Policy](SECURITY.md), [Installation and Download Security Guidance
 ## Community quick start and issue triage
 
 See [Quick Start](docs/QUICKSTART_zh.md) and [Community Issue Triage](docs/COMMUNITY-ISSUE-TRIAGE.md) for installation, client integration, and how community issues are classified. Installation/archive security details remain in [Installation and Download Security Guidance](docs/UV-AND-DOWNLOAD-SECURITY.md).
+
+## Sources
+
+Compiled and maintained from upstream [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
